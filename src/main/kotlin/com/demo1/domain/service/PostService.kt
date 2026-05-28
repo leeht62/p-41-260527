@@ -3,7 +3,7 @@ package com.demo1.domain.service
 import com.demo1.domain.entity.Post
 import com.demo1.domain.repository.PostRepository
 import org.springframework.stereotype.Service
-
+//
 @Service
 class PostService(
     private val postRepository: PostRepository
